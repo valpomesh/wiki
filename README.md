@@ -18,11 +18,11 @@ wiki
 <li> <a href ="http://bmx6.net/projects/bmx6"> BMX </li> </a> 
 <li> <a href ="http://bmx6.net/projects/bmx6"> OSLRD </li> </a> 
 <li> <a href ="http://open80211s.org/open80211s/"> 80211S </li> </a> 
-<ul>
+</ul>
 
 <h5>4. Proyectos a fines: Hardware Layers </h5> 
 <ul>
 <li> <a href ="http://piratebox.cc/"> PirateBox </li> </a> 
 <li> <a href ="http://villagetelco.org/mesh-potato/"> Mesh Potato </li> </a> 
 <li> <a href ="http://hakshop.myshopify.com/"> WiFi Pinneaple </li> </a> 
-<ul>
+</ul>

@@ -1,4 +1,4 @@
-wiki
+valpo.mesh
 ====
 
 <h5> 1. Instalación de OpenWRT => B.A.T.M.A.N.</h5> 

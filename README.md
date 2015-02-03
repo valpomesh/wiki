@@ -29,6 +29,5 @@ valpo.mesh
 
 <h5>4. Artículos </h5>
 <ul>
-<li> <a href ="Community-Lab: Architecture of a Community
-Networking Testbed for the Future Internet">Project title: Community Networks Testbed for the Future Internet </li> </a> 
+<li> <a href ="http://dsg.ac.upc.edu/sites/default/files/1569632739.pdf">Neumann Axel, Vilata Ivan, Léno Xavier, Garcia  Pau Escric, Leandro Navarro, Ester López. Community Networks Testbed for the Future Internet </li> </a> 
 </ul>

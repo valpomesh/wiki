@@ -26,3 +26,9 @@ valpo.mesh
 <li> <a href ="http://villagetelco.org/mesh-potato/"> Mesh Potato </li> </a> 
 <li> <a href ="http://hakshop.myshopify.com/"> WiFi Pinneaple </li> </a> 
 </ul>
+
+<h5>4. Artículos </h5>
+<ul>
+<li> <a href ="Community-Lab: Architecture of a Community
+Networking Testbed for the Future Internet">Project title: Community Networks Testbed for the Future Internet </li> </a> 
+</ul>
